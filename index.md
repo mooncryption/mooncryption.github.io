@@ -66,6 +66,7 @@ Sure, if you ask nicely :) There are also a few other requirements:
 <li> You must run a seed/RPC node. 
 <li> You must be an active witness :P
 </ul>
+<br>
 <h1>Can I contact you?</h1>
 Yes! Our username is <code>@mooncryption#6603</code> on <a href="https://discordapp.com">Discord.</a> 
 If you don't want to chat through Discord, feel free to drop your email or other messaging service in the comments section of one of my recent posts.
