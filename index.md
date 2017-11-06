@@ -56,7 +56,7 @@ I vote for witnesses with good tech specs, who are doing good things for our Ste
 
 <h3>Can I have <i>your</i> witness vote?</h3>
 Sure, if you ask nicely :) There are also a few other requirements: 
-<ul>
+
 <li> You should post/comment/vote actively on the STEEM blockchain.</item>
 <li> You must post an SBD/STEEM feed price frequently.</item>
 <li> You should miss a very small amount of blocks.</item>
@@ -65,7 +65,7 @@ Sure, if you ask nicely :) There are also a few other requirements:
 <li> You should be easily reachable via Discord or Steemit.chat. 
 <li> You must run a seed/RPC node. 
 <li> You must be an active witness :P
-</ul>
+
 <br>
 <h1>Can I contact you?</h1>
 Yes! Our username is <code>@mooncryption#6603</code> on <a href="https://discordapp.com">Discord.</a> 
