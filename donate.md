@@ -2,7 +2,7 @@ You can donate using any of the **cryptocurrency addresses** located below. Reme
 
 ## Bitcoin Cash (BCH)
 Our Bitcoin Cash address is:
-<center><a href="https://blockdozer.com/insight/address/1DiDsV8xrW74KiWRtMboUSNAY8kZCoZCr6"><code>1DiDsV8xrW74KiWRtMboUSNAY8kZCoZCr6</code></a><br><img src="https://steemitimages.com/DQmQhpqFtH6krRRkdWopAWiqQCLtAb1YrjqNtmRTNVHTwau/image.png" /></center>
+<center><a href="https://blockdozer.com/insight/address/1DiDsV8xrW74KiWRtMboUSNAY8kZCoZCr6"><code>1DiDsV8xrW74KiWRtMboUSNAY8kZCoZCr6</code></a><br><br><img src="https://steemitimages.com/DQmQhpqFtH6krRRkdWopAWiqQCLtAb1YrjqNtmRTNVHTwau/image.png" /></center>
 
 Feel free to use a one-cent (or even less!) transaction fee to get your transaction through!
 
