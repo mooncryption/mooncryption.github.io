@@ -1,10 +1,14 @@
 You can donate using any of the **cryptocurrency addresses** located below. Remember that no amount is too small!
 
+## Bitcoin Cash (BCH)
+Our Bitcoin Cash address is:
+<center><a href="https://blockdozer.com/insight/address/1DiDsV8xrW74KiWRtMboUSNAY8kZCoZCr6"><code>1DiDsV8xrW74KiWRtMboUSNAY8kZCoZCr6</code></a><br><img src="https://steemitimages.com/DQmQhpqFtH6krRRkdWopAWiqQCLtAb1YrjqNtmRTNVHTwau/image.png" /></center>
+
+Feel free to use a one-cent (or even less!) transaction fee to get your transaction through!
+
 ## Bitcoin (BTC) 
 Our Bitcoin address is:
 <center><a href="https://blockchain.info/payment_request?address=1Moon4CmwiNH7a73SJwFLe9PnubBjWXXZY&message=Donation+:)"><code>1Moon4CmwiNH7a73SJwFLe9PnubBjWXXZY</code></a><br><img src="https://steemitimages.com/DQmYnK2cGqrP1wN6xUj218EcRVWw9S4P8rdrBxjXDVFKtGR/gMibVWgVylONcNZ_H6uCPknpbXCP3XETAYxd7Kh7XeQiFjRiXQ3YeE_3NS0iJ3zcoBf-eoruFtz9htiq9E--8xfrfsRObngadp1dWl7mnJfs0lEOmA%3Dw371.png" /></center>
-
-Don't worry too much about transaction fees, feel free to use a really small transaction fee if necessary. Thanks!
 
 ## Steem & Steem Dollars (SBD)
 Our STEEM address is:
